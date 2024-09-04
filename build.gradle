@@ -12,7 +12,12 @@ repositories {
 }
 
 dependencies{
+		// UI lib
 		implementation 'com.github.leewyatt:rxcontrols:11.0.3'
+		
+		// toml phrase
+		implementation 'io.hotmoka:toml4j:0.7.3'
+		
 }
 
 sourceSets {
