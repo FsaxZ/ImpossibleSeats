@@ -1,3 +1,6 @@
+// coding:UTF-8
+compileJava.options.encoding = 'UTF-8'
+
 plugins {
 	id 'eclipse'
 	id 'java'
